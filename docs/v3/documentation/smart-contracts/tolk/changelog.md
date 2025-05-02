@@ -2,7 +2,7 @@ import Feedback from '@site/src/components/Feedback';
 
 # History of Tolk
 
-When new versions of Tolk are released, they will be mentioned here.
+When new versions of Tolk are released, they'll be mentioned here.
 
 
 ## v0.11
